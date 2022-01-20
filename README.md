@@ -2,7 +2,7 @@
 
 Simple deploy mysql on docker by terraform
 
-# how to start
+# How To
 
 1. init terraform
 ```bash
