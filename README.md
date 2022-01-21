@@ -25,3 +25,5 @@ terraform output --json
 ```TF_VAR_DB_NAME```
 
 export to set the database name
+
+[@dwsclass](https://github.com/dwsclass/) dws-ops-002-terraform
